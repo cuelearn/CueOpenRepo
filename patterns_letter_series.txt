@@ -1,0 +1,58 @@
+a a a b a a a b a a a b			4 x 3
+
+- b - a a - c a - b c a
+
+a b a a b a a b a a b a			3 x 4
+
+3 patterns --> 4 times repeat, remove 4 letters
+4 patterns --> 3 times repeat, remove 4 letters
+
+
+3-patterns:
+
+a b a
+a a b
+b b a
+b a b
+a b c
+a c b
+b a c
+b c a
+c a b
+c b a
+
+4 - patterns
+
+a b a a 
+a a b b
+a b b a
+b a a b
+b b a a
+b b a b
+a a b a
+b a a a
+a a a b
+a b b b 
+b a b b
+b b b a
+a b c a
+a c b a
+b c a a
+c b a a
+c a b a
+b a c a
+a c b b 
+b a b c
+b c b a
+b a c b
+c a b b 
+a b c c
+a c b c
+c a b c
+b a c c
+b c a c
+c b a c
+c a c b
+c c a b
+c b c a
+c c b a
