@@ -7,7 +7,7 @@ a b a a b a a b a a b a			3 x 4
 3 patterns --> 4 times repeat, remove 4 letters
 4 patterns --> 3 times repeat, remove 4 letters
 
-
+I will make a change here.
 3-patterns:
 
 a b a
